@@ -206,7 +206,7 @@ def show_results(q: Quiz):
 
 # ---------- Page ----------
 st.set_page_config(page_title="Cognitive Bias Quiz", page_icon="🧠", layout="centered")
-st.title("🧠 Cognitive Bias Quiz")
+st.title("🧠 Gauden's Cognitive Bias Quiz")
 
 state = get_state()
 
